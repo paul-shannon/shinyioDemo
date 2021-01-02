@@ -1,0 +1,10 @@
+name: leaflet
+title:
+username:
+account: paulshannon
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3438970
+bundleId: 4050707
+url: https://paulshannon.shinyapps.io/leaflet/
+when: 1609600436.08192
